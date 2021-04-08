@@ -1,0 +1,15 @@
+html{
+    width: 100%; 
+}
+
+body {
+    margin: 0;
+}
+
+.cuadro {
+    background-color: aquamarine;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    text-transform: capitalize;  
+}
